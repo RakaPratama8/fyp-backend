@@ -1,8 +1,8 @@
 ---
 title: Find Your Paper Backend
 emoji: 🗄
-colorFrom: gray-700
-colorTo: black
+colorFrom: red
+colorTo: yellow
 sdk: docker
 pinned: false
 ---
